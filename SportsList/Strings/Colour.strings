@@ -1,0 +1,11 @@
+/* 
+  Color.strings
+  SportsList
+
+  Created by shikha on 07/03/22.
+  
+*/
+
+"colorPrimary" = "#C40202";
+"navigationBarTitleTextAttributeColor" = "#ffffff";
+"navigationBarTintColor" = "#ffffff";

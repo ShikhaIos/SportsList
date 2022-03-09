@@ -2,11 +2,11 @@
 //  SceneDelegate.swift
 //  SportsList
 //
-//  Created by shikha on 09/03/22.
+//  Created by shikha on 07/03/22.
 //
 
 import UIKit
-
+@available(iOS 13.0, *)
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
